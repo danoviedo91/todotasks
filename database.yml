@@ -1,8 +1,8 @@
 development:
   dialect: postgres
-  database: todotasks_development
+  database: todo
   user: postgres
-  password: postgres
+  password: root
   host: 127.0.0.1
   pool: 5
 
